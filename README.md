@@ -1,3 +1,3 @@
 # YourWallet
 
-Projeto Desenvolvido com fim de estudo a escola Trybe.
+Projeto Desenvolvido a fins didádicos a escola Trybe.
