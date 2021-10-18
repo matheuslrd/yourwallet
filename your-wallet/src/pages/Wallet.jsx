@@ -24,7 +24,6 @@ class Wallet extends Component {
   }
 
   componentDidMount() {
-    console.log('Montou');
     this.fetchingValuesCurrencys();
   }
 
