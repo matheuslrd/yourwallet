@@ -1,5 +1,6 @@
 {
-  "name": "sd-0x-project-trybewallet",
+  "homepage": "https://matheuslrd.github.io/yourwallet",
+  "name": "yourwallet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
