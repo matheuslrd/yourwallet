@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yourwallet/static/css/main.a52f5e57.chunk.css",
-    "main.js": "/yourwallet/static/js/main.5f5baaa6.chunk.js",
-    "main.js.map": "/yourwallet/static/js/main.5f5baaa6.chunk.js.map",
+    "main.js": "/yourwallet/static/js/main.78c7eb88.chunk.js",
+    "main.js.map": "/yourwallet/static/js/main.78c7eb88.chunk.js.map",
     "runtime-main.js": "/yourwallet/static/js/runtime-main.2f48988a.js",
     "runtime-main.js.map": "/yourwallet/static/js/runtime-main.2f48988a.js.map",
     "static/js/2.bc22b278.chunk.js": "/yourwallet/static/js/2.bc22b278.chunk.js",
     "static/js/2.bc22b278.chunk.js.map": "/yourwallet/static/js/2.bc22b278.chunk.js.map",
     "index.html": "/yourwallet/index.html",
-    "precache-manifest.81911bbf22a3bc29efa279437f8d0774.js": "/yourwallet/precache-manifest.81911bbf22a3bc29efa279437f8d0774.js",
+    "precache-manifest.0d9fe36e37419bb5adca8b873cfe29bf.js": "/yourwallet/precache-manifest.0d9fe36e37419bb5adca8b873cfe29bf.js",
     "service-worker.js": "/yourwallet/service-worker.js",
     "static/css/main.a52f5e57.chunk.css.map": "/yourwallet/static/css/main.a52f5e57.chunk.css.map",
     "static/js/2.bc22b278.chunk.js.LICENSE.txt": "/yourwallet/static/js/2.bc22b278.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2f48988a.js",
     "static/js/2.bc22b278.chunk.js",
     "static/css/main.a52f5e57.chunk.css",
-    "static/js/main.5f5baaa6.chunk.js"
+    "static/js/main.78c7eb88.chunk.js"
   ]
 }
