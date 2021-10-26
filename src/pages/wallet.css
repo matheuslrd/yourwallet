@@ -1,0 +1,61 @@
+.wallet-page {
+  background: #0d0d17;
+  height: 100vh;
+  width: 100%;
+}
+
+.table,
+tr,
+td,
+th {
+  background: #39515B;
+  border: 2px solid #4DB9C6;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 0.5em;
+}
+
+.table {
+  margin: 1em 0.2em;
+  width: 100%;
+}
+
+.tr-table td {
+  padding: 1em 0.5em;
+}
+
+.buttons-update-delete {
+  border: none;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+}
+
+.btn-update-delete {
+  align-items: center;
+  border: none;
+  border-radius: 0.2em;
+  cursor: pointer;
+  display: flex;
+  flex-flow: row nowrap;
+  height: 2em;
+  justify-content: center;
+  outline: none;
+  width: 40%;
+}
+
+.btn-update {
+  background: #f9f91a;
+}
+
+.btn-update:hover {
+  background: #e0e006;
+}
+
+.btn-delete {
+  background: #f91a1a;
+}
+
+.btn-delete:hover {
+  background: #e00606;
+}
