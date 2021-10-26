@@ -80,7 +80,7 @@ class Login extends Component {
             />
           </form>
         </section>
-        { redirect && <Redirect to="/carteira" /> }
+        { redirect && <Redirect to="/yourwallet/carteira" /> }
       </main>
     );
   }
