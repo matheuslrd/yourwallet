@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { GoPencil } from 'react-icons/go';
 import { TiDelete } from 'react-icons/ti';
-import Button from './Button';
 
 class TableRow extends Component {
   constructor() {
